@@ -1,3 +1,24 @@
-h1{
-    color: blue;
+body {
+    background-color: silver;
 }
+
+
+
+
+
+h1 {
+    color: blue;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+  }
+h2 {
+    color: brown;
+    font-size: large;
+
+ }
+
+   img {
+
+    width: 150;
+    height: auto;
+   }
